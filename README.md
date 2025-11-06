@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**javichuchio/javichuchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+{
+  "username": "javichuchio",
+  "name": "Javier Sío ",
+  "code": {
+    "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Angular", "Tailwind"],
+    "backend": ["NodeJS", "Python"],
+    "database": ["MySQL", "MongoDB", "SQLite"],
+    "devops": ["Docker", "GitHub Actions"],
+    "tools": ["Git", "VSCode", "GitHub"]
+  },
+  "architecture": ["SPA", "MVC", "Serverless", "Microservices"]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

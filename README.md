@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Banner](https://raw.githubusercontent.com/javichuchio/javichuchio/github2.png)
+
+![Banner](https://raw.githubusercontent.com/javichuchio/javichuchio/refs/heads/main/github2.png)
 
 {
   "username": "javichuchio",
